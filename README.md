@@ -9,7 +9,6 @@ The tools include: Scanning, Ips, discord accounts, roblox, fortnite, Steam, ema
 
 please dont abuse these features we made this Incase your PC is in another place
 enjoy
-[output](https://github.com/user-attachments/assets/e6482abe-91b4-4447-8842-20bb3b567c01)
 
 
 **FEATURES**
@@ -23,3 +22,4 @@ enjoy
 | |├── !bitcoinMine                  | |
 | |├─────────────────────────────────| |
 ────────────────────────────────────────
+![output](https://github.com/user-attachments/assets/7be5a532-9ed3-486c-bc2b-3b26b77fbda7)
