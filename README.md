@@ -11,7 +11,7 @@ please dont abuse these features we made this Incase your PC is in another place
 enjoy!
 
 
-FEATURES
+**FEATURES**
 ┌── ⚒️ - HALO RAT TOOL───────────────────
 │ |├── !help for RAT commands────────| |
 | |├── INCLUDES                      | |
