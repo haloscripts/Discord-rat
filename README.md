@@ -11,4 +11,14 @@ please dont abuse these features we made this Incase your PC is in another place
 enjoy!
 
 
-
+FEATURES
+┌── ⚒️ - HALO RAT TOOL───────────────────
+│ |├── !help for RAT commands────────| |
+| |├── INCLUDES                      | |
+| |├── !bluescreen                   | |
+| |├── !GeoLocate                    | |
+| |├── !Jumpscare                    | |
+| |├── !passwordgrab                 | |
+| |├── !bitcoinMine                  | |
+| |├─────────────────────────────────| |
+────────────────────────────────────────
