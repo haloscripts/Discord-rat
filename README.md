@@ -8,7 +8,8 @@ Free.
 The tools include: Scanning, Ips, discord accounts, roblox, fortnite, Steam, emails, XBOX, playstation, and more.
 
 please dont abuse these features we made this Incase your PC is in another place
-enjoy!
+enjoy
+[output](https://github.com/user-attachments/assets/e6482abe-91b4-4447-8842-20bb3b567c01)
 
 
 **FEATURES**
